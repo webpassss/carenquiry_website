@@ -1,0 +1,67 @@
+.navbar ul li a{
+    font-size: 9px;
+}
+
+.navbar ul{
+    position: absolute;
+    margin-top: 38px;
+    margin-left: -9%;
+}
+
+.navbar i{
+    margin-left: 39%;
+   
+}
+
+.sec1text{
+    width: 74%;   
+}
+
+.sec1{
+    padding-top: 1px;
+}
+
+.text1 ul{
+    flex-direction: column;
+    margin-left: -9%;
+}
+
+.sec2box1 i{
+    margin-bottom: 30%;
+    margin-top: 26%;
+}
+
+
+.sec2box1 {
+    padding: 39% 0px;
+}
+
+.sec3box1 {
+    margin-left: 9%;
+}
+
+.carousel1 {
+    width: 204%;
+    margin-left: -51%;
+}
+
+.carousel{
+    width: 195%;
+    margin-left: -23%;
+}
+
+.others{
+    border-radius: 26px;
+}
+
+.others .text2 {
+    padding-top: 23%;
+}
+
+.text3 {
+    overflow: scroll;
+    height: 192px;
+    width: 204%;
+    overflow-y: scroll;
+    margin-left: -51%;
+}

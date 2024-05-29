@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding:0 ;
+}
+
+.list-none{
+    list-style: none;
+}
+
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pad10{
+    padding-right: 15px;
+}
+
+.text-none{
+    text-decoration: none;
+}
+
+.cursor-point{
+    cursor: pointer;
+}
+
+.text-black{
+    color: black;
+}
+
+.text-center{
+    text-align: center;
+
+}
+
+.carousel-control-color{
+    color: black;
+}
+
+.text-white{
+    color: white;
+}
+
+.back-white{
+    background-color: white;
+}
+
+
+

@@ -1,0 +1,72 @@
+.navbar{
+    flex-direction: column;
+    
+    margin-top: 19px;
+}
+
+.navbar i{
+    width: -1%;
+    margin-left: 45%;
+    margin-top: 10px;
+    margin-bottom: 19px;
+}
+
+.navbar ul{
+    margin-left: -10%;
+    text-align: center;
+}
+
+.sec1main{
+    margin-left: -2%;
+}
+
+.text2{
+    text-align: center;
+    
+    padding: 5%;
+}
+
+.sec1{
+    padding-top: 1px;
+    
+}
+
+
+.sec2box1{
+    flex-direction: column;
+    padding: 24% 0;
+}
+
+.sec2box1 i{
+    margin-left: 27px;
+    margin-bottom: 14%;
+}
+
+.sec2box1 h2{
+    font-size: 25px;
+}
+
+.sec2box1 h5{
+    font-size: 15px;
+}
+
+.text2{
+    margin-top: -33px;
+}
+
+.otherbox{
+    margin-left: -33px;
+}
+
+.others .text2 {
+    padding-top: 19%;
+}
+
+.sec3box{
+    flex-direction: column;
+}
+
+.sec3box1{
+    width: 15%;
+    margin: 15px 94px;
+}
