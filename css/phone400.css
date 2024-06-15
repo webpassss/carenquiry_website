@@ -37,7 +37,7 @@
 }
 
 .sec3box1 {
-    margin-left: 9%;
+    margin-left: 21%;
 }
 
 .carousel1 {
@@ -65,3 +65,11 @@
     overflow-y: scroll;
     margin-left: -51%;
 }
+
+.sec4 .carousel-item img {
+    width: 50%;
+    height: 52vh;
+}
+
+
+
