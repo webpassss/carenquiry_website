@@ -285,6 +285,11 @@ margin: 0 16px;
         margin-left: -51%;
     }
 
+    .sec4{
+        max-height: 75vh;
+        padding-top: 7%;
+    }
+
     .sec4 .carousel-item img {
     width: 50%;
     height: 52vh;
