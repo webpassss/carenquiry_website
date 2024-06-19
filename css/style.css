@@ -238,6 +238,7 @@ margin: 0 16px;
     
     .sec1{
         padding-top: 1px;
+        max-height: 77vh;
     }
     
     .text1 ul{
